@@ -1,0 +1,5 @@
+.tox/
+venv/
+.coverage
+docs/build
+.idea/
